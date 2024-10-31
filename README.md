@@ -6,7 +6,7 @@ This project implements a Tic-Tac-Toe game where a user can play against a Q-lea
 
 - **agent/**: Contains the `agent.py` file, which implements the Q-learning algorithm for the AI.
 - **environment/**: Contains the `environment.py` file, which defines the Tic-Tac-Toe game environment and handles game logic.
-- **Main/**: Contains the `tictactoe_ui.py` file, the main script to run the game with the UI. This is the newest file with the complete functionality.
+- **Main/**: Contains the `tictactoe_ui.py` file, the main script to run the game with the UI. Which Will Show You Learning Curve. 
 - **requirements.txt**: Lists the necessary Python packages for the project.
 - **utils/**: Contains utility functions and additional classes used in the project (if applicable).
 
