@@ -10,6 +10,18 @@ This project implements a Tic-Tac-Toe game where a user can play against a Q-lea
 - **requirements.txt**: Lists the necessary Python packages for the project.
 - **utils/**: Contains utility functions and additional classes used in the project (if applicable).
 
+Main
+
+First Play
+![Screenshot (1721)](https://github.com/user-attachments/assets/a46be11e-c8aa-4f04-ae81-1ef97d823d0f)
+
+Third Play
+![Screenshot (1722)](https://github.com/user-attachments/assets/7951b18c-935e-4763-8c9f-26f9d4273fb3)
+
+
+
+
+
 ## Getting Started
 
 ### Prerequisites
